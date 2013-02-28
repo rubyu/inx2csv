@@ -1,0 +1,9 @@
+.settings/*
+build/*
+dicts/*
+dist/*
+test/*
+inx2csv/*
+*.pyc
+
+
