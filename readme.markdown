@@ -3,7 +3,7 @@
 
 ### すべてのデータを出力する場合
 
-    usage: inx2csv.exe path_to_inx path_to_csv
+    > inx2csv.exe path_to_inx path_to_csv
 
 この場合、出力は
 
@@ -19,7 +19,7 @@
 
 ### Ankiに適した出力
 
-    usage: inx2csv.exe --mode anki path_to_inx path_to_csv
+    > inx2csv.exe --mode anki path_to_inx path_to_csv
 
 この場合、出力は
 
